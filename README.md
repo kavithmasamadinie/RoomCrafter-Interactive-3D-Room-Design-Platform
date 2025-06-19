@@ -9,7 +9,7 @@
 ## 🔗 Project Links
 
 - 💻 **Live Demo**: [RoomCrafter Walkthrough Video](https://youtu.be/DfN9FkOeAkE)
-- 📁 **GitHub Repository**: [github.com/OWKiriella/Room-Crafter](https://github.com/kavithmasamadinie/RoomCrafter-Interactive-3D-Room-Design-Platform)
+- 📁 **GitHub Repository**: [github.com/kavithmasamadinie/Roomcrafter](https://github.com/kavithmasamadinie/RoomCrafter-Interactive-3D-Room-Design-Platform)
 - 🎨 **Figma Designs**: [Prototype & UI Mockups](https://www.figma.com/design/pPP0mpemku7xJsGNt1kGXm/HCI?node-id=0-1)
 - 📊 **User Feedback Survey**: [Google Forms](https://forms.gle/HupbcaCpYFjVjMW79)
 
